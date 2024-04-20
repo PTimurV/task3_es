@@ -1,0 +1,18 @@
+.topic{
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    
+    
+  }
+  
+  .container{
+    margin-left: 40px;
+  }
+  
+  

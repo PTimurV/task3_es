@@ -1,0 +1,12 @@
+.item{
+    border-radius: 1px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center; /* выравнивание текста */
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+}
